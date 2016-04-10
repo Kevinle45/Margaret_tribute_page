@@ -1,0 +1,53 @@
+h1 {
+  font-family: serif;
+  font-size: 65pt;
+}
+
+p {
+  font-family: serif;
+}
+
+.center {
+  width: 200px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+
+}
+h3 {
+  font-size: 20pt;
+  font-family: serif;
+}
+.swog {
+  font-family: arial;
+  font-size: 20pt;
+}
+li {
+  font-size: 15pt;
+  font-family: serif;
+}
+h4 {
+  font-family: serif;
+  font-size: 20pt;
+}
+.box {
+  padding: 70px;
+  border-style: solid;
+  border-color: #F7F7F7;
+  border-width: 70px;
+  text-align: center;
+  background-color: #DFDFDF;
+}
+h5 {
+  font-family: serif;
+  font-size: 12pt;
+}
+.fox {
+  padding: 15px;
+  border-style: solid;
+  border-color: #F7F7F7;
+  border-width: 60px;
+  text-align: center;
+  background-color: #DFDFDF;
+}
